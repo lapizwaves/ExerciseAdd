@@ -47,3 +47,6 @@ button {
   padding: 10px 20px;
   cursor: pointer;
 }
+ul {
+  list-style-type: none;
+}
