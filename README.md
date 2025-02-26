@@ -1,2 +1,0 @@
-# Exercising
-Project for class
